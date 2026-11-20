@@ -2,10 +2,11 @@
 name: redya-xiaohongshu
 description: 输入一句话，或粘贴图文、文章、视频链接，红鸦 AI 就能生成标题、正文和配图。支持普通图文、商品图文、爆文复刻和 Live 实况图文。可以一步出图，也可以先看大纲再生成，还支持批量创作和敏感词检测。成稿可通过插件同步到小红书、抖音、公众号等平台的编辑器，确认后发布。
 metadata:
+  displayName: "小红书图文与实况图·红鸦 AI"
   tags: "content-creation, ecommerce, xiaohongshu, live-photo"
 ---
 
-# 红鸦开放平台:小红书图文生成
+# 小红书图文与实况图·红鸦 AI
 
 通过红鸦(RedYA)开放平台 API,为用户生成完整的小红书图文笔记:标题 + 正文 + 多页配图。支持普通图文、商品图文、逐页爆文复刻和 Live 实况图文。
 
